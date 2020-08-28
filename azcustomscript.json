@@ -1,4 +1,4 @@
 {
-  "fileUris": ["https://raw.githubusercontent.com/alashro/sampleweb/master/web_nginx.sh"],
-  "commandToExecute": "./web_nginx.sh"
+  "fileUris": ["https://raw.githubusercontent.com/alashro/sampleweb/master/install_nginx.sh"],
+  "commandToExecute": "./install_nginx.sh"
 }
