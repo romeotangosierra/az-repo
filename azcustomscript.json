@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/alashro/sampleweb/master/web_nginx.sh"],
+  "commandToExecute": "./web_nginx.sh"
+}
