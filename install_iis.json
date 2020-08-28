@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/romeotangosierra/az-repo/install_web.sh"],
+  "commandToExecute": "./install_iis.sh"
+}
